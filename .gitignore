@@ -1,0 +1,10 @@
+# Ignore environment files
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Ignore system files (Windows, macOS)
+Thumbs.db
+.DS_Store
